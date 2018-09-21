@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "3.x",
+    "knex": "^0.15.2",
+    "nodemon": "^1.18.4",
+    "sqlite3": "^4.0.2"
+  }
+}
